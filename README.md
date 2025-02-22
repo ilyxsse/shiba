@@ -8,3 +8,7 @@ Shiba is built with Python, OpenGL, and Pygame. It loads glTF models, automatica
 - **Arrow Keys:** Adjust the lighting direction.
 - **T Key:** Toggle lighting on/off.
 - **Mouse Wheel:** Zoom in and out.
+
+![screenshot1](screens/img1.png)
+
+![screenshot2](screens/img2.png)
